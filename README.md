@@ -21,7 +21,7 @@ I enjoy building **end-to-end applications**, experimenting with **AI-powered so
 ---
 
 ### 🧪 Projects & Technical Experience
-- 🤖 **Personalized AI Chat Companion** (Offline AI – LLaMA / Mistral based)
+- 🤖 **Personalized AI Chat Companion** (Offline AI – LLaMA / Mistral)
 - 🌊 **Underwater Image Clarification using Deep Learning**  
   *Internship Project – NIT Puducherry*
 - 🌱 **Hydrogen Extraction from Water for Fuel Applications**
@@ -31,15 +31,14 @@ I enjoy building **end-to-end applications**, experimenting with **AI-powered so
 ---
 
 ### 🔗 Professional Profiles
+- 💼 **LinkedIn:** [Harini Krishnakumar](https://www.linkedin.com/in/harinikrishnakumar)
+- 🧩 **LeetCode:** https://leetcode.com/uC13BEcWC9
 
-
-- 💼 LinkedIn: [Harini Krishnakumar](https://www.linkedin.com/in/harinikrishnakumar)
-- 🧩 LeetCode: *(![LeetCode Stats](https://leetcard.jacoblin.cool/uC13BEcWC9?theme=dark&font=Noto%20Serif%20Yezidi&ext=contest))*
+---
 
 ### 🌐 Social Presence
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinikrishnakumar)
-
-- [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harini_rmkcet_official)
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harini_rmkcet_official)
 
 ---
 
@@ -68,11 +67,16 @@ I enjoy building **end-to-end applications**, experimenting with **AI-powered so
 
 ---
 
-### 📊 GitHub Stats
-![Harini's GitHub stats]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HARINI-K-OFFICIAL&bg_color=000000&color=ffffff&line=45d9c0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+### 📊 GitHub Activity & Stats
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HARINI-K-OFFICIAL&bg_color=000000&color=ffffff&line=45d9c0&point=ffffff&area=true&hide_border=true)
 
-[![Leetcode Stats](![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/uC13BEcWC9?theme=dark&font=Noto%20Serif%20Yezidi&ext=contest)))](https://leetcode.com/)
+![Harini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HARINI-K-OFFICIAL&show_icons=true&theme=dark)
+
+---
+
+### 🧩 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/uC13BEcWC9?theme=dark&ext=contest)](https://leetcode.com/uC13BEcWC9)
 
 ---
 

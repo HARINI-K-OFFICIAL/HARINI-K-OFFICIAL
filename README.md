@@ -64,7 +64,7 @@ I enjoy building **end-to-end applications**, experimenting with **AI-powered so
 ### 📊 GitHub Stats
 ![Harini's GitHub stats](https://github-readme-stats.vercel.app/api?username=harics248&show_icons=true&theme=dark)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?theme=dark)](https://leetcode.com/)
+[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/uC13BEcWC9?theme=dark&font=Noto%20Serif%20Yezidi&ext=contest))](https://leetcode.com/)
 
 ---
 

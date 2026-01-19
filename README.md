@@ -6,9 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=HARINI-K-OFFICIAL&label=Profile%20views&color=0e75b6&style=flat" alt="HARINI-K-OFFICIAL" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=520&lines=Hi+This+is+Harini+K+👋;Building+Impactful+Software+💡;Full+Stack+%7C+AI+%26+ML+Enthusiast+🤖;III+Year+CSE+Student+🎓;Future+Engineer+in+Germany+🇩🇪" />
-</p>
+>
 
 
 ## Hello, I'm Harini K 👋

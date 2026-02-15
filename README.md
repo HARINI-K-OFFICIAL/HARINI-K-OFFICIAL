@@ -1,124 +1,136 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+this+is+Harini+K+👋;Building+Impactful+Software+💡;Full+Stack+%7C+AI+%26+ML+Enthusiast+🤖;III+Year+CSE+Student+🎓;Future+Engineer+in+Germany+🇩🇪" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi+I'm+Harini+K+👋;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast+🤖;Building+Impactful+Software+💡;Future+Engineer+in+Germany+🇩🇪" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HARINI-K-OFFICIAL&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=HARINI-K-OFFICIAL&label=Profile%20views&color=00FF9C&style=for-the-badge" />
 </p>
 
 ---
 
-## Hello, I'm Harini K 👋
+## 👋 Hello, I'm Harini K
 
-🎓 **III Year Computer Science and Engineering Student**  
-💻 **Aspiring Full Stack Developer | AI & ML Enthusiast**  
-🌍 **Career Goal:** Build impactful software & pursue opportunities in Germany 🇩🇪  
+🎓 III Year CSE Student  
+💻 Full Stack Developer | AI & ML Enthusiast  
+🌍 Future Software Engineer in Germany 🇩🇪  
 
-<img align="right" width="360" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-> 💡 *I don’t just write code — I build solutions that solve real-world problems.*  
-> From AI-driven systems to full-stack applications, I love turning ideas into impactful products.
+💡 *I don’t just code — I build real solutions.*
+
+✔️ Strong fundamentals  
+✔️ Real-world projects  
+✔️ Growth mindset  
+✔️ Passion for impactful technology  
 
 ---
 
-### 👩‍💻 About Me
-I am a highly motivated Computer Science student with a strong foundation in programming and problem-solving.  
-I enjoy building **end-to-end applications**, experimenting with **AI-powered solutions**, and continuously improving my technical depth through real-world projects.
+## 🚀 About Me
 
 - 🔭 Focused on **Full Stack Development**
-- 🌱 Learning **Advanced React, Node.js, System Design & DSA**
-- 🤖 Exploring **AI/ML integration in web applications**
-- 🎯 Strong academic performer with a consistent growth mindset
-- 🤝 Open to **internships, research, and collaborative projects**
+- 🌱 Learning **Advanced React, Node.js & System Design**
+- 🤖 Exploring **AI-powered applications**
+- 🧠 Daily DSA practice (LeetCode)
+- 🤝 Open to internships & collaborations
 
 ---
 
-### 🚀 Featured Projects
+## 🔥 Featured Projects
 
-#### 🤖 Personalized AI Chat Companion (Offline)
-- Built using **LLaMA / Mistral**
-- Adapts to user learning styles (friendly, professional, example-based)
-- Runs locally – no internet dependency
-- Goal: Free & private AI for students
+### 🤖 Personalized AI Chat Companion (Offline)
+✔️ Runs locally using LLaMA / Mistral  
+✔️ Adapts to learning style  
+✔️ Free & privacy-focused AI  
 
-#### 🌊 Underwater Image Clarification – Deep Learning  
-*Internship – NIT Puducherry*
-- Enhanced underwater images using CNN-based models  
-- Improved visibility & color correction for marine research  
-- Hands-on experience with real datasets & model tuning
+### 🛒 MERN E-Commerce Platform
+✔️ Authentication, cart, orders  
+✔️ Admin dashboard  
+✔️ Production-ready architecture  
 
-#### 🛒 Full Stack E-Commerce Platform
-- MERN stack (React + Node + MongoDB)
-- Authentication, cart, orders & admin panel
-- Designed for production-level use
+### 🌊 Underwater Image Enhancement — DL
+✔️ Internship @ NIT Puducherry  
+✔️ CNN models for image clarity  
+✔️ Real dataset training  
 
-#### 🌱 Hydrogen Extraction from Water
-- Research-oriented project for clean fuel generation
-
-#### 📱 College App UI/UX (Figma – iOS focused)
-- Academic info, notes, staff, achievements & more
+### 🌱 Hydrogen Extraction Project
+✔️ Clean fuel research  
+✔️ Sustainable energy focus  
 
 ---
 
-### 🔥 Currently Building
-- An **offline AI learning assistant** for students  
-- A **full-stack social platform** for student communities  
-- Improving **DSA consistency** (daily LeetCode practice)  
-- Preparing for **international opportunities** (Germany 🇩🇪)
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs" />
+</p>
+
+### 🗄️ Databases & AI
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,tensorflow" />
+</p>
+
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,figma" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧩 LeetCode Stats
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Databases & AI**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Developer Tools**  
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/uC13BEcWC9?theme=dark&ext=contest" />
+</p>
 
 ---
 
-### 🌐 Professional Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinikrishnakumar)
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harini_rmkcet_official)
+## 🎮 Contribution Game (Pac-Man Style 😍)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-### 📊 GitHub Activity & Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HARINI-K-OFFICIAL&bg_color=000000&color=00ff9c&line=45d9c0&point=ffffff&area=true&hide_border=true)
-![Harini's GitHub stats](https://github-readme-stats.vercel.app/api?username=HARINI-K-OFFICIAL&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HARINI-K-OFFICIAL&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HARINI-K-OFFICIAL&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 🧩 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/uC13BEcWC9?theme=dark&ext=contest)](https://leetcode.com/uC13BEcWC9)
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARINI-K-OFFICIAL&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
-### 💡 What I Believe
-> *“Strong fundamentals, real projects, and consistent effort define a true software engineer.”*
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harinikrishnakumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/harini_rmkcet_official">
+    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📬 Let’s Connect
-If you’re a recruiter, mentor, or fellow developer —  
-I’d love to collaborate, learn, and build something meaningful together.
+## 💬 My Motto
 
-👉 Connect on [LinkedIn](https://www.linkedin.com/in/harinikrishnakumar)  
-👉 Explore my projects right here on GitHub
+> ⭐ *Strong fundamentals + Real projects + Consistency = Great Engineer*
+
+---
+
+## ❤️ Thanks for visiting!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=120&section=footer"/>
+</p>

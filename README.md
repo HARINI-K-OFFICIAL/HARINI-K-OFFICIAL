@@ -85,11 +85,12 @@
 
 ---
 
-## 🎮 Contribution Game (Pac-Man Style 😍)
+## 🎮 Contribution Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/HARINI-K-OFFICIAL/HARINI-K-OFFICIAL/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
